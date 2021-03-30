@@ -1,0 +1,27 @@
+#narancs {
+    background-color: peru;
+    color: white;
+    border: peru solid 1px;
+    height:25px;
+}
+div {
+    background-color: lightgray;
+    width: 450px;
+}
+.hn {
+    width: 20mm;
+    position: relative;
+    left: 25mm;
+}
+span {
+    color: red;
+}
+#ny {
+    width: 62mm;
+    position: relative;
+    left: 6.5mm;
+}
+#t {
+    position: relative;
+    left: 23mm;
+}
